@@ -4,18 +4,6 @@ caja 2) papá tecnologico
 caja 3) papá master chef
 caja 4) papá personalizado
 caja 5) magica
-
-
-
-
-
-
-
-
-
-
-
-
 pendientes:
 lunes traer nombres posibles para emprendimiento = TODOS
 lican:revisar stock sobre producto.
