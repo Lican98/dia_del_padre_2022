@@ -1,0 +1,6 @@
+ws-button {
+    position: fixed;
+    bottom: 85px;
+    right: 0;
+    z-index: 9;
+  }
