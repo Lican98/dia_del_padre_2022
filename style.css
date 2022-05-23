@@ -1,6 +1,10 @@
 #nosotras-pag{
-  background-color:indianred 
+  background-color:indianred; 
 }
+ body{
+   font-family: Boogaloo;
+ }
+
 ws-button {
     position: fixed;
     bottom: 85px;
