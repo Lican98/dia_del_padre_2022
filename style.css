@@ -6,8 +6,8 @@
  }
 
 ws-button {
-    position: fixed;
+    position: sticky;
     bottom: 85px;
     right: 0;
-    z-index: 9;
+    z-index: 100;
   }
