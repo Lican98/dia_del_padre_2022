@@ -1,6 +1,11 @@
-#nosotras-pag{
-  /*background-color:indianred; */
+.bg-soymas{
+  background-color: #5dfbe5;
 }
+#tamaño{
+  font-size:4.5rem !important;
+}
+  
+
  body{
    font-family: Boogaloo;
  }
