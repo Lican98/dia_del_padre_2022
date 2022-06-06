@@ -10,9 +10,14 @@
    font-family: Boogaloo;
  }
 
-ws-button {
-    position: sticky;
-    bottom: 85px;
+.ws-button {
+    position: fixed;
+    bottom: 20px;
     right: 0;
-    z-index: 100;
+    z-index: 400;
+    display: block;
+  }
+  footer{
+    background-color: white;
+    border-top: 1px solid blue;
   }
