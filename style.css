@@ -21,3 +21,15 @@
     background-color: white;
     border-top: 1px solid blue;
   }
+  #nosotras-pag{
+    background-color: #5dfbe5;
+  }
+  .imgredonda{
+    width:515px;
+    height:515px;
+    border-radius:280px;
+    margin: 10px;
+  }
+  .card{
+    border: none;
+  }
