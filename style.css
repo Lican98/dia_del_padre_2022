@@ -1,5 +1,5 @@
 .bg-soymas{
-  background-color: #5dfbe5;
+  background-color: #ffcd43e5;
 }
 #tamaño{
   font-size:4.5rem !important;
@@ -16,8 +16,8 @@
     display: block;
   }
   footer{
-    background-color: white;
-    border-top: 1px solid blue;
+    background-color: rgb(255, 187, 0);
+    border-top: 1px solid rgb(226, 216, 202);
   }
   #nosotras-pag{
     background-color: #5dfbe5;
